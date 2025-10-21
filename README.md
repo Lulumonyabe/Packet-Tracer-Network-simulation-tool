@@ -1,7 +1,7 @@
-# Packet-Tracer-Network-simulation-tool
-# 🖧 Basic Wired and Wireless Network Configuration (Cisco Packet Tracer)
 
-## 📘 Project Overview
+#  Basic Wired and Wireless Network Configuration (Cisco Packet Tracer)
+
+##  Project Overview
 This project demonstrates how to configure **both a simple wired network** and a **basic wireless network** using **Cisco Packet Tracer**.  
 It includes step-by-step setup instructions, IP configuration, connectivity verification, and packet simulation between devices.
 
